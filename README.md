@@ -1,4 +1,4 @@
-# <Refactory-Code>
+## Refactory-Code
 
 ## Description
 
@@ -10,7 +10,7 @@ There are navigation links at the top of the page that direct you to a different
 
 ## Screenshot
     
-    ![screen capture of deployed web page](../refactory-code/assets/images/screen-shot.png)
+![screen capture of deployed web page](./assets/images/screen-shot.png)
 
 ## Link
 
