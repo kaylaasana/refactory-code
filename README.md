@@ -10,7 +10,7 @@ There are navigation links at the top of the page that direct you to a different
 
 ## Screenshot
     
-    ![screen capture of deployed web page](assets\images\screencapture-kaylaasana-github-io-refactory-code-2023-06-22-20_26_01.png)
+    ![screen capture of deployed web page](../refactory-code/assets/images/screen-shot.png)
 
 ## Link
 
