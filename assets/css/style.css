@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* changed from .header to header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ header {
     color: #ffffff;
 }
 
+/* changed from .header to header */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* changed from .header to header */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* changed from .header to header */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +36,12 @@ header nav {
     font-size: 20px;
 }
 
+/* changed from .header to header */
 header nav ul {
     list-style-type: none;
 }
 
+/* changed from .header to header */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -137,14 +143,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+/* changed .footer to footer */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* changed .footer to footer */
+footer h2 {
     font-size: 20px;
 }
